@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
+
 .App {
   text-align: center;
+  font-family: 'Love Ya Like A Sister', cursive;
+  background-color: rgb(173, 182, 177);
 }
 
 .App-logo {

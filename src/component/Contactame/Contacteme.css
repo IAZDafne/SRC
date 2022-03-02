@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+
+
+.formulario-contacto{
+    width: 300px;
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: black 0px 0px 10px;
+    margin-left:550px;
+   
+  
+}
+.titulo{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 32px;
+}
